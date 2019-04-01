@@ -6,7 +6,9 @@ Provides information on..
 - Chance of rain
 
 # API References
+
 Mapbox : https://www.mapbox.comg 
 - provides coordinates for a specific address
+
 Darksky : https://darksky.net
 - provides weather information for a specific address

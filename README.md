@@ -7,7 +7,7 @@ Provides information on..
 
 # API References
 
-Mapbox : https://www.mapbox.comg 
+Mapbox : https://www.mapbox.com
 - provides coordinates for a specific address
 
 Darksky : https://darksky.net
